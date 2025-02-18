@@ -18,4 +18,4 @@ I once broke both arms at the same time but still managed to stay creative! 💪
 
 ---
 
-💬 Let’s **connect**, collaborate, and code something awesome together!! 🚀
+💬 Let’s **connect**, collaborate, and code something awesome together! 🚀
