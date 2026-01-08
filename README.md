@@ -1,4 +1,4 @@
-# 👋 Hi there! I'm Nino  
+# 👋 Hi there! I'm Nainounen  
 
 🚀 **Code Enthusiast** | 🧑‍💻 **Problem Solver** | 🌍 **Tech Explorer**  
 
