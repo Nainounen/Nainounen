@@ -44,7 +44,7 @@
 │  :_________:         CPU      Apple M4 Pro · 14 cores                     │
 │   :_________`-;      Memory   24 GB unified                               │
 │    `.__.-.__.'       Shell    zsh                                         │
-│                      Editor   VS Code · Claude Code                       │
+│                      Editor   VS Code                                     │
 │                                                                           │
 │  ~ ❯ uptime                                                               │
 │  still learning, still shipping · load avg: caffeinated                   │
