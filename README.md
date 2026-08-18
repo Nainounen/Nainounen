@@ -1,6 +1,6 @@
 <p align="center">
   <img src="assets/terminal.svg" width="900"
-       alt="Terminal window. Nainounen — Software Developer in Training. Web apps by day, homelab by night. LANG: TypeScript, Next.js, React, Supabase, Stripe, Vercel. OS: macOS, Linux, Proxmox. TOOLS: Docker, Bash, Tailscale, Grafana, Python, MCP Servers, Git, VS Code. Contact: github.com/Nainounen. Always down to collab on self-hosting, AI tooling, homelab automation and hardware." />
+       alt="Terminal window. Nainounen — Software Developer in Training. Web apps by day, homelab by night. LANG: TypeScript, Next.js, React, Supabase, Stripe, Vercel. OS: macOS, Linux, Proxmox. TOOLS: Docker, Bash, Tailscale, Grafana, Python, MCP Servers, Git, VS Code. Contact: github.com/Nainounen, dev@nainounen.com. Always down to collab on self-hosting, AI tooling, homelab automation and hardware." />
 </p>
 
 <p align="center">
